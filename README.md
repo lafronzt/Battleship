@@ -1,7 +1,7 @@
 # Battleship Game Manual/Information #
 Created by Nicolas Bonzani, Colby Daly, and Tyler La Fronz
 
-#CONTENTS OF THIS FILE
+## CONTENTS OF THIS FILE
 
  * Introduction
  * Requirements
@@ -10,7 +10,7 @@ Created by Nicolas Bonzani, Colby Daly, and Tyler La Fronz
  * Troubleshooting
  
  
-#Introduction
+## Introduction
 
 Welcome to Battleship! This is a unique version of Battleship designed to be played by 1 player.
 At the start of the game, the computer will randomly place the ships for you. All you have to
@@ -20,14 +20,14 @@ this down! You can compare it with your friends and see who did the best! Enjoy!
 This is an ongoing project and will be periodically updated.
 
 
-#Requirements
+## Requirements
 
 1 Windows Computer
 1 Player
 1 Sheet of Paper and a Pencil (for score keeping)
 
 
-#Installation
+## Installation
 
 No installation is required, a simple setup is needed to ensure proper functionality. See the
 Configuration section for more details.
@@ -40,14 +40,14 @@ torpedo.wav
 Winston_Churchill_Quote.wav
 
 
-#Configuration
+## Configuration
 
 All files needed to run the game properly are included in the .zip file, along with this README file.
 In order to ensure proper functionality, ensure .wav files are placed in the same folder as the .exe file.
 Begin by unzipping the .zip file, and you should be good to go.
 
 
-#Troubleshooting
+## Troubleshooting
 
 No sound? Ensure the .wav files are in the same directory as the .exe file.
 The project doesn't run? Try restarting your device
